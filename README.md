@@ -17,7 +17,7 @@ Just download the project and import in Intellj Idea or you can use the jar.
 
 
 **Get Started**
-[Download the jar file from here](https://github.com/s4kibs4mi/JPhotoUploader/blob/master/out/artifacts/JPhotoUploader_jar/JPhotoUploader.jar)
+[Download the jar file from here](https://github.com/s4kibs4mi/JPhotoUploader/blob/master/out/artifacts/JPhotoUploader_jar/JPhotoUploader.jar?raw=true)
 
 *Standalone Application :*
 Run the jar file using Java 8 jre and you are done.

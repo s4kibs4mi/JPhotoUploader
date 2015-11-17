@@ -27,7 +27,7 @@ Run the jar file using Java 8 jre and you are done.
 ![ Screen with files ](https://github.com/s4kibs4mi/JPhotoUploader/blob/master/screens/Screen2.png?raw=true)
 
 1. Click on add button to add files.
-2.  Choose All / Selected to upload files. If selected the select files and click upload to upload the files.
+2.  Choose All / Selected to upload files. If selected then select files and click upload to upload the files.
 3. Once uploaded the status will be changed.Click on a file to get full response information.
 4. Click reset button to reset the panel.
 5. Click donate button to consider a donation on paypal.
